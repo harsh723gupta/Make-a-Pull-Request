@@ -1,7 +1,6 @@
 
 # Contributors (Add name)
 
-RISHABH BANSAL (https://github.com/rishabh-bansal)
 
 Filipe Ramalho (https://github.com/FilipeRamalho)
 
